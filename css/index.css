@@ -55,7 +55,7 @@ html {
         height: 100px;
      }
     #logo {
-      
+     
       width: 150px;
       height: 134px;
       position: relative;
@@ -119,4 +119,8 @@ p {
 
 .white {
   color: #fff;
+}
+
+h4 {
+  color: #91c4bf ;
 }
