@@ -1,3 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Sriracha&display=swap');
+</style>
 
 @font-face {
   font-family: 'carringtonregular';
@@ -137,5 +140,8 @@ h4 {
   color: #91c4bf ;
 }
 
-
+.navbar-nav {
+  background-color: #91c4bf;
+  font-family: 'Sriracha', cursive;
+}
 
